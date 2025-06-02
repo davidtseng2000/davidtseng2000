@@ -14,3 +14,34 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 🧠 About Me
+
+Hi there! I'm David, a passionate developer from Taiwan 🇹🇼  
+
+- 🎓 Master's in Computer Science from NTHU  
+- 🏫 Algorithm and Bioinformatics Lab  
+- 🧩 Recently built a Maze Routing GUI using C++  
+- 🎮 Gamer at heart – League of Legends + basketball IRL  
+
+Visit my website 👉 [davidtseng2000.github.io](https://davidtseng2000.github.io/)
+
+---
+
+## 🛠 Tech Stack
+
+**Languages (More Familiar With):**  
+C/C++, Python
+
+**Languages (Some Experience With):**  
+R, MATLAB, JavaScript, PHP
+
+**Tools & Platforms:**  
+Git, Linux
+
+**Parallel Computing:**  
+MPI, OpenMP, Pthread, CUDA
+
+
+## 📊 LeetCode Stats
+[![LeetCode Stats](https://leetcard.jacoblin.cool/david890211?ext=activity)](https://leetcode.com/david890211)
