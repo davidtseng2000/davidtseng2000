@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 
 ## 🧠 About Me
 
-Hi there! I'm David, a passionate developer from Taiwan 🇹🇼  
+Hi there! I'm David, a passionate developer from Taiwan 🇹🇼
 
 - 🎓 Master's in Computer Science from NTHU  
 - 🏫 Algorithm and Bioinformatics Lab  
-- 🧩 Recently built a Maze Routing GUI using C++  
-- 🎮 Gamer at heart – League of Legends + basketball IRL  
+- ⚡ Recently built a Maze Routing GUI using C++  
+- 🏀 Gamer at heart – basketball + League of Legends IRL  
 
 Visit my website 👉 [davidtseng2000.github.io](https://davidtseng2000.github.io/)
 
