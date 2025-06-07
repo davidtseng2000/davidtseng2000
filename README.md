@@ -45,3 +45,6 @@ MPI, OpenMP, Pthread, CUDA
 
 ## 📊 LeetCode Stats
 [![LeetCode Stats](https://leetcard.jacoblin.cool/david890211?ext=activity)](https://leetcode.com/david890211)
+
+## 🗣 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hsiangfeng&layout=compact&theme=vue-dark)
