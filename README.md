@@ -45,3 +45,6 @@ MPI, OpenMP, Pthread, CUDA
 
 ## 📊 LeetCode Stats
 [![LeetCode Stats](https://leetcard.jacoblin.cool/david890211?ext=activity)](https://leetcode.com/david890211)
+
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=davidtseng2000.davidtseng2000)
+
