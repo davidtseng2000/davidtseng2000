@@ -15,20 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🧠 About Me
+## About Me
 
 Hi there! I'm David, a passionate developer from Taiwan 🇹🇼
 
-- 🎓 Master's in Computer Science from NTHU  
-- 🏫 Algorithm and Bioinformatics Lab  
-- ⚡ Recently built a Maze Routing GUI using C++  
-- 🏀 Gamer at heart – basketball + League of Legends IRL  
+- Master's in Computer Science from NTHU  
+- Algorithm and Bioinformatics Lab  
+- Gamer at heart – basketball + League of Legends IRL  
 
 Visit my website 👉 [davidtseng2000.github.io](https://davidtseng2000.github.io/)
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Languages (More Familiar With):**  
 C/C++, Python
@@ -42,9 +41,10 @@ Git, Linux
 **Parallel Computing:**  
 MPI, OpenMP, Pthread, CUDA
 
-
-## 📊 LeetCode Stats
+<!--
+📊 LeetCode Stats
 [![LeetCode Stats](https://leetcard.jacoblin.cool/david890211?ext=activity)](https://leetcode.com/david890211)
 
 ![Visitors](https://komarev.com/ghpvc/?username=davidtseng2000)
+-->
 
